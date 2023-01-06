@@ -149,3 +149,25 @@
   justify-content: flex-end;
   font-style: normal;
 }
+
+/*sign-up area*/
+
+.sign-up-area .container {
+  margin-top: 75px;
+  margin-bottom: 75px;
+  background-color: #3882f6;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  padding: 40px 100px;
+  border-radius: 10px;
+}
+
+.sign-up-text p {
+  color: #e5e7eb;
+  font-size: 15px;
+}
+
+.sign-up-area-btn {
+  border: white 1px solid;
+}
