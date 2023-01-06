@@ -171,3 +171,13 @@
 .sign-up-area-btn {
   border: white 1px solid;
 }
+
+/*footer*/
+
+footer {
+  background-color: #1f2937;
+  color: #e5e7eb;
+  padding: 28px;
+  text-align: center;
+  font-size: 13px;
+}
